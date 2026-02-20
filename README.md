@@ -122,5 +122,3 @@ Heart rate data was bucketed into standard training zones to understand training
 ### 🏃 Forrest Gump Comparison
 Forrest Gump's legendary run covered 24,700 km over 1,169 days. At the same shoe-wear rate (~746 km per pair), he would have needed approximately **33 pairs of running shoes!**
 ```
-
-Run all cells sequentially to reproduce the full analysis.
